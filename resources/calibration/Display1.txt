@@ -1,0 +1,8 @@
+%YAML:1.0
+screenName: KevinLaptop
+printedMarkerID: 1
+screenMarkerID: 101
+kinectOffsetX: 70.0
+kinectOffsetY: 107.0
+kinectOffsetZ: 90.0
+kinectTilt: 12.0

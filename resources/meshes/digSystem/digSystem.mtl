@@ -1,0 +1,132 @@
+# Blender MTL File: 'None'
+# Material Count: 12
+
+newmtl digestive_bileduct_mat
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Digestive_Bileduct_Dif.jpg
+
+newmtl digestive_colon_mat
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Digestive_Colon_Dif.jpg
+
+newmtl digestive_falciform_ligament_mat
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Digestive_Falciform_Ligament_Dif.jpg
+
+newmtl digestive_gall_bladder_mat
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Digestive_Gallbladder_Dif.jpg
+
+newmtl digestive_liver_mat
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Digestive_Liver_Dif.jpg
+
+newmtl digestive_mouth_mat
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Digestive_Mouth_Dif.jpg
+
+newmtl digestive_small_intestine_mat
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Digestive_Small_Intestines_Dif.jpg
+
+newmtl digestive_stomach_mat
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Digestive_Stomach_Dif.jpg
+
+newmtl digestive_tongue_mat
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Digestive_Tongue_Dif.jpg
+
+newmtl endocrine_pancreas_mat
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Digestive_Pancreas_Dif.jpg
+
+newmtl skeletal_teeth_mat
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.955696 0.921550 0.836304
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl skeletal_teeth_mat1
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.955696 0.921550 0.836304
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
